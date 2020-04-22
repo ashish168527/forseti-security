@@ -27,6 +27,10 @@ Get set up and started with development.
 
 Get set up and start writing tests.
 
+**[Run the test suite]({% link _docs/latest/develop/test/integration-testing/run-test-suite.md %})**
+
+Learn how to run the integation test suite on your local development environment.
+
 **[Get Help Developing on Forseti]({% link _docs/latest/use/get-help.md %})**
 
 Find the best way to get help with development.
